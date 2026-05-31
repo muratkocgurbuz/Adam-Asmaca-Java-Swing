@@ -1,0 +1,30 @@
+23/05/2026 23:57:19;Tablo verileri temizlendi: log.txt
+23/05/2026 23:58:22;Sisteme başarılı giriş yapıldı.
+23/05/2026 23:59:06;Sisteme başarılı giriş yapıldı.
+24/05/2026 00:02:20;Sisteme başarılı giriş yapıldı.
+24/05/2026 00:10:48;Sisteme başarılı giriş yapıldı.
+24/05/2026 00:29:05;Sisteme başarılı giriş yapıldı.
+24/05/2026 01:17:59;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:34:10;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:35:05;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:35:39;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:39:36;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:39:41;Yeni oyun başlatıldı.
+29/05/2026 18:41:21;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:41:34;Yeni oyun başlatıldı.
+29/05/2026 18:41:37;Yeni oyun başlatıldı.
+29/05/2026 18:41:39;Yeni oyun başlatıldı.
+29/05/2026 18:41:41;Yeni oyun başlatıldı.
+29/05/2026 18:41:42;Yeni oyun başlatıldı.
+29/05/2026 18:41:48;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:50:14;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:50:24;Yeni oyun başlatıldı.
+29/05/2026 18:52:09;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:52:11;Yeni oyun başlatıldı.
+29/05/2026 18:53:19;Oyun bitti. Sonuç: Kaybetti, Süre: 68
+29/05/2026 18:55:07;Sisteme başarılı giriş yapıldı.
+29/05/2026 18:55:12;Yeni oyun başlatıldı.
+29/05/2026 18:55:33;Oyun bitti. Sonuç: Kaybetti, Süre: 21
+29/05/2026 18:55:39;Yeni oyun başlatıldı.
+29/05/2026 18:55:57;Oyun bitti. Sonuç: Kaybetti, Süre: 17
+29/05/2026 19:09:21;Giriş iptal edildi.
