@@ -1,4 +1,4 @@
-Markdown
+
 # 🎮 Adam Asmaca (Hangman) Oyunu - Java Swing
 
 Bu proje, Süleyman Demirel Üniversitesi Programlama 2 dersi kapsamında geliştirilmiş, Java Swing arayüzü kullanan kapsamlı bir Adam Asmaca oyunudur.
