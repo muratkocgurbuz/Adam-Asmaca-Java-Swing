@@ -34,3 +34,13 @@ C:\P2Oyun
     ├── log.txt
     ├── oyunlar.txt
     └── sifre.txt
+
+
+🚀 Nasıl Çalıştırılır?
+1-Repoyu bilgisayarınıza indirin veya klonlayın.
+
+2-P2Oyun klasörünü bilgisayarınızın doğrudan C:\ dizinine kopyalayın.
+
+3-Projeyi tercih ettiğiniz bir IDE (Örn: NetBeans) ile açıp Odev_2221032823.java dosyasını çalıştırın.
+
+Geliştirici: Murat Koçgürbüz
